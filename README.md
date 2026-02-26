@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Database Concurrency Control Simulator
 
 This project simulates an inventory management system to compare **Pessimistic** and **Optimistic** locking strategies for handling concurrent order requests.
@@ -5,8 +6,6 @@ This project simulates an inventory management system to compare **Pessimistic**
 ## Setup and Run
 
 1.  **Clone the repository**.
-git clone https://github.com/Vyshnavichakkapalli/Database-Concurrency-Control-Simulator-for-Inventory-Management
-cd Database-Concurrency-Control-Simulator-for-Inventory-Management
 
 
 2.  **Create a .env file** from the example:
@@ -60,3 +59,6 @@ Uses a `version` column. It checks if the version has changed since it was read.
 - `.env.example`
 - `seeds/init.sql`
 - `concurrent-test.sh`, `monitor-locks.sh`
+=======
+# Database-Concurrency-Control-Simulator-for-Inventory-Management
+>>>>>>> 736fa3c0f1935c0a88c21942b2f874055bb9453c
