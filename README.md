@@ -7,6 +7,7 @@ This project simulates an inventory management system to compare **Pessimistic**
 
 1.  **Clone the repository**.
 git clone https://github.com/Vyshnavichakkapalli/Database-Concurrency-Control-Simulator-for-Inventory-Management
+
 cd Database-Concurrency-Control-Simulator-for-Inventory-Management"
 
 2.  **Create a .env file** from the example:
